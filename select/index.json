@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Sex, Drugs, Etc. (Official Video)",
+  "base_artist": "Beach Weather",
+  "createdAt": "2026-01-13T16:48:42.235686Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "has_synced": true,
+      "path": "select/01_Sex,_Drugs,_Etc._Beach_Weather.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "has_synced": true,
+      "path": "select/02_Sex,_Drugs,_Etc._Beach_Weather.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "has_synced": true,
+      "path": "select/03_Sex,_Drugs,_Etc._Beach_Weather.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sex, Drugs, Etc. (Stripped Down)",
+      "artist": "Beach Weather",
+      "has_synced": true,
+      "path": "select/04_Sex,_Drugs,_Etc._(Stripped_Down)_Beach_Weather.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sex, Drugs, Etc. (Sped Up Version)",
+      "artist": "Beach Weather",
+      "has_synced": true,
+      "path": "select/05_Sex,_Drugs,_Etc._(Sped_Up_Version)_Beach_Weather.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "has_synced": true,
+      "path": "select/06_Sex,_Drugs,_Etc._Beach_Weather.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "has_synced": true,
+      "path": "select/07_Sex,_Drugs,_Etc._Beach_Weather.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "has_synced": true,
+      "path": "select/08_Sex,_Drugs,_Etc._Beach_Weather.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sex, Drugs, Etc. (Stripped Down)",
+      "artist": "Beach Weather",
+      "has_synced": true,
+      "path": "select/09_Sex,_Drugs,_Etc._(Stripped_Down)_Beach_Weather.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "has_synced": true,
+      "path": "select/10_Sex,_Drugs,_Etc._Beach_Weather.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "has_synced": false,
+      "path": "select/pl_01_Sex,_Drugs,_Etc._Beach_Weather.txt"
+    }
+  ]
+}
